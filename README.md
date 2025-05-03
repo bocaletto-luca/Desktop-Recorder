@@ -42,33 +42,3 @@ python desktop_recorder.py
 **Website:** elektronoide.it
 
 **License:** This project is distributed under the MIT License. For more details, please see the LICENSE file.
-
-# Italiano
-
-**Desktop Recorder** è un'applicazione desktop in Python che ti consente di registrare il tuo schermo in vari formati di qualità video. Puoi selezionare tra diverse opzioni di qualità, come 480p, 720p e 1080p, per le tue registrazioni.
-
-![Screenshot 2023-10-13 130115](https://github.com/elektronoide/Desktop-Recorder/assets/134635227/5fa1d426-3b4b-478c-9f08-8f56a95eec31)
-
-## Caratteristiche
-
-- Registra il tuo schermo in vari formati di qualità video.
-- Opzioni di qualità video, tra cui 480p, 720p e 1080p.
-- Interfaccia utente semplice per iniziare e arrestare le registrazioni.
-- Visualizza una miniatura in tempo reale della registrazione.
-- Notifiche per l'inizio e la fine della registrazione.
-
-## Requisiti
-
-- Python 3
-- PyQt5
-- OpenCV (cv2)
-- pyautogui
-- plyer
-
-## Installazione
-
-Assicurati di avere tutti i requisiti installati. Puoi installarli utilizzando `pip`:
-
-```shell
-pip install PyQt5 opencv-python-headless pyautogui plyer
-```
