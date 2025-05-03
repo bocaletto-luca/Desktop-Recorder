@@ -1,6 +1,5 @@
 # Software Name: Desktop Recorder
 # Author: Bocaletto Luca
-# Site Web: https://www.elektronoide.it
 # Language: Italian
 import sys
 import sys
