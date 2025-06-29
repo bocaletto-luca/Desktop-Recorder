@@ -37,8 +37,15 @@ Run the program by executing the desktop_recorder.py file. The application will 
 ```shell
 python desktop_recorder.py
 ```
-**Author:** Bocaletto Luca
-
-**Website:** elektronoide.it
 
 **License:** This project is distributed under the MIT License. For more details, please see the LICENSE file.
+
+---
+
+**Note**: Ensure that you have installed all the necessary dependencies before running the application.
+
+**Maintainer Update**
+
+My current GitHub account is **@bocaletto-luca**, which is now the official maintainer of all projects previously published under the **@Elektronoide** account. Please direct any issues, pull requests, or stars to **@bocaletto-luca** for future updates.
+
+---
